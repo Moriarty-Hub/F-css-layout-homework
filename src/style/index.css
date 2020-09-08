@@ -101,7 +101,7 @@ button {
 
 .article-list {
   width: 60%;
-  height: 800px;
+  height: 760px;
 
   display: flex;
   flex-direction: column;
@@ -148,4 +148,11 @@ button {
   margin-bottom: 25px;
   text-decoration: none;
   color: deepskyblue;
+}
+
+.footer {
+  background: darkgrey;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
 }
