@@ -92,7 +92,7 @@ input[type="password"] {
 
 button {
   height: 40px;
-  width: 210px;
+  width: 200px;
   background: deepskyblue;
   color: white;
   font-size: 18px;
@@ -101,7 +101,7 @@ button {
 
 .article-list {
   width: 60%;
-  height: 760px;
+  height: 780px;
 
   display: flex;
   flex-direction: column;
