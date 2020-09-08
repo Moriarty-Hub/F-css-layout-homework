@@ -37,11 +37,38 @@ ul {
 }
 
 .left-side {
-  width: 10%;
+  width: 15%;
+}
+
+.about {
+  background: lightgray;
+  padding: 20px 15px;
+}
+
+.about-title {
+  font-style: italic;
+}
+
+.about-content {
+  padding-bottom: 10px;
+}
+
+.archive {
+  padding: 20px 15px;
+  margin-top: 20px;
+}
+
+.archive-title {
+  font-style: italic;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .right-side {
-  width: 10%;
+  width: 15%;
 }
 
 .article-list {
@@ -78,6 +105,7 @@ ul {
 .title {
   padding-left: 15px;
   padding-right: 15px;
+  margin-top: 10px;
 }
 
 .content {
